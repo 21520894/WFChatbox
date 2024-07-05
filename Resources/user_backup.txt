@@ -1,0 +1,6 @@
+1*Chat\\ava\\1.jpg*on*Bảo Anh*Online
+2*Chat\\ava\\2.jpg*on*Huỳnh Trâm*Chào ngày mới!
+3*Chat\\ava\\3.jpg*off*Tùng Dương*Offline
+4*Chat\\ava\\4.jpg*on*Minh Lan*Rộn ràng
+5*Chat\\ava\\5.jpg*on*Tuấn Hưng*Vừa xong
+6*Chat\\ava\\6.jpg*off*Thanh Tùng*Offline

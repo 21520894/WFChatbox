@@ -1,0 +1,5 @@
+0*D:\subject_learning\Csharp\CodeProject_B1\Resources\ava\ava0.png*off*duyhung*Online*1
+1*D:\subject_learning\Csharp\CodeProject_B1\Resources\ava\ava1.png*off*hung*Online*1
+2*D:\subject_learning\Csharp\CodeProject_B1\Resources\ava\ava2.png*off*duy*Online*1
+3*D:\subject_learning\Csharp\CodeProject_B1\Resources\ava\ava3.png*off*john*Online*123456
+4*D:\subject_learning\Csharp\CodeProject_B1\Resources\ava\ava4.png*off*tester*Online*123456789
